@@ -1,2 +1,2 @@
 Django examples are availabile.
-All django functionalities are here.
+All type of api in django functionalities are here.
